@@ -1,0 +1,16 @@
+Los gestores de proyectos utilizan los diagramas de Gantt con tres fines principales:
+Crear y gestionar un proyecto completo
+Los diagramas de Gantt sirven para visualizar los componentes básicos de un proyecto y para organizarlo 
+en tareas más pequeñas y gestionables. Las pequeñas tareas resultantes se programan en la línea de tiempo 
+del diagrama de Gantt, junto con las dependencias entre las tareas, las personas asignadas y los hitos.
+
+Determinar la logística y las dependencias de las tareas
+Los diagramas de Gantt se pueden utilizar para supervisar la logística de un proyecto. Las dependencias de 
+tareas hacen que una tarea nueva solo pueda iniciarse una vez que se haya completado otra. Si una tarea se 
+retrasa (nos puede pasar a cualquiera), las incidencias asociadas se reprograman automáticamente. Esto puede 
+ser especialmente útil cuando se planifica en un entorno con varios equipos.
+
+Supervisar el progreso de un proyecto
+A medida que los equipos registran el tiempo que van a dedicar a incidencias en el plan, puedes supervisar el 
+estado de los proyectos y realizar los ajustes necesarios. Tu diagrama de Gantt puede incluir fechas de 
+lanzamiento, hitos y otras métricas importantes para supervisar el progreso del proyecto.
